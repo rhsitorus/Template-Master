@@ -1,5 +1,5 @@
 {
-    "name": "rofil/template-master-bundle",
+    "name": "rofil/template-master",
     "type": "symfony-bundle",
     "description": "Extra awesome contact bundle for Symfony2",
     "keywords": ["contact", "bundle"],
