@@ -13,5 +13,6 @@
     ],
     "autoload": {
         "psr-0": { "Rofil\\Template\\MasterBundle": "" }
-    }
+    },
+    "target-dir": "Rofil/Template/MasterBundle"
 }
