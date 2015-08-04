@@ -16,5 +16,6 @@
     "autoload": {
         "psr-0": { "Rofil\\Template\\MasterBundle": "" }
     },
+    "minimum-stability": "stable",
     "target-dir": "Rofil/Template/MasterBundle"
 }
