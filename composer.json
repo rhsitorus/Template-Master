@@ -9,7 +9,7 @@
             "name": "Rofilde Hasudungan",
             "email": "rofilde@gmail.com"
         }
-    ]
+    ],
     "autoload": {
         "psr-0": { "Rofil\\Template\\MasterBundle": "" }
     }
