@@ -1,6 +1,5 @@
 {
     "name": "rofil/template-master-bundle",
-    "type": "symfony-bundle",
     "description": "Extra awesome contact bundle for Symfony2",
     "keywords": ["contact", "bundle"],
     "license": "MIT",
@@ -16,6 +15,5 @@
     "autoload": {
         "psr-0": { "Rofil\\Template\\MasterBundle": "" }
     },
-    "minimum-stability": "stable",
     "target-dir": "Rofil/Template/MasterBundle"
 }
