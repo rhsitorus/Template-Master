@@ -3,7 +3,6 @@
     "type": "symfony-bundle",
     "description": "Extra awesome contact bundle for Symfony2",
     "keywords": ["contact", "bundle"],
-    // "homepage": "http://github.com/oxygenthinking/SavvyContactBundle",
     "license": "MIT",
     "authors": [
         {
