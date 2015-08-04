@@ -1,5 +1,6 @@
 {
     "name": "rofil/template-master-bundle",
+    "type": "symfony-bundle",
     "description": "Extra awesome contact bundle for Symfony2",
     "keywords": ["contact", "bundle"],
     "license": "MIT",
@@ -8,12 +9,8 @@
             "name": "Rofilde Hasudungan",
             "email": "rofilde@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=5.3.2"
-    },
+    ]
     "autoload": {
         "psr-0": { "Rofil\\Template\\MasterBundle": "" }
-    },
-    "target-dir": "Rofil/Template/MasterBundle"
+    }
 }
