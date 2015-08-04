@@ -4,6 +4,7 @@
     "description": "Extra awesome contact bundle for Symfony2",
     "keywords": ["contact", "bundle"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Rofilde Hasudungan",
