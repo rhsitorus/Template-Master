@@ -1,13 +1,13 @@
 {
     "name": "rofil/template-master",
     "type": "symfony-bundle",
-    "description": "Extra awesome contact bundle for Symfony2",
-    "keywords": ["contact", "bundle"],
+    "description": "The default template for rofil application",
+    "keywords": ["theme", "bundle"],
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Rofilde Hasudungan",
+            "name": "Rofilde Hasudungan Sitorus Pane",
             "email": "rofilde@gmail.com"
         }
     ],
