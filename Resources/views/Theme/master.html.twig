@@ -8,8 +8,27 @@
 	{% endstylesheets %}
 </head>
 <body>
+	{% block header %}
+	    <div class="container">
+	    	<h1>Rofilde Hasudungan <span class="glyphicon glyphicon-calendar"></span></h1>
+	    </div>
+	{% endblock %}
+	
+
+	{% block navigation %}
+	    {% include '@RofilTemplateMasterBundle:Theme:navigation.html.twig' only %}
+	{% endblock %}
+
 	<div class="container">
-		<h1>Rofilde Hasudungan <span class="glyphicon glyphicon-calendar"></span></h1>
+		{% block layout %}
+		    
+		{% endblock %}
 	</div>
+	
+	{% block footer %}
+		<div class="container">
+			Copyright &copy; 2015 By Rofilde Hasudungan. All Right Reserved.			
+		</div>
+	{% endblock %}
 </body>
 </html>
