@@ -2,7 +2,7 @@
     "name": "rofil/template-master",
     "type": "symfony-bundle",
     "description": "The default template for rofil application",
-    "keywords": ["theme", "bundle"],
+    "keywords": ["theme", "bundle", "symfony"],
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
