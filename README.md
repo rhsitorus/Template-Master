@@ -1,7 +1,9 @@
 Installation:
-```...
+```
+...
 "rofil/template-master": "master-dev"
-...```
+...
+```
 
 and update composer.json by running
 ```
