@@ -47,3 +47,25 @@ app/console assets:install
 ```
 
 ##Using##
+in template you can extends our template by using 
+```
+{% extends("RofilTemplateMasterBundle:one-column.html.twig") %}
+
+{% block "content" %}
+    ...
+{% endblock %}
+```
+
+for one column template or for two column template by using 
+```
+{% extends("RofilTemplateMasterBundle:one-column.html.twig") %}
+
+{% block "sidebar" %}
+    ...
+{% endblock %}
+
+{% block "content" %}
+    ...
+{% endblock %}
+```
+the available block that availabel to override are `header`, `navigation`, `title`, `layout` and `footer`. 
