@@ -1,17 +1,21 @@
-Installation:
+###INSTRUCTION###
+##Introduction##
+##Installation##
+Add to composer.json
 ```
 ...
 "rofil/template-master": "master-dev"
 ...
 ```
 
-and update composer.json by running
+update composer.json by running
 ```
     ...
     $ composer update
     ...
 ```
-register the bundle pada appkernel.php
+
+register the bundle in appkernel.php
 
 ```
 ...
@@ -19,7 +23,7 @@ register the bundle pada appkernel.php
 ...
 ```
 
-###Configuration###
+##Configuration###
 
 in app/config/config.yml
 ```
@@ -37,9 +41,9 @@ twig:
             - 'RofilTemplateMaster:Form:fields.html.twig'
 ```
 
-#Dump Asset#
 ##Dump Asset##
-###Dump Asset###
 ```
 app/console assets:install
 ```
+
+##Using##
