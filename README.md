@@ -1,17 +1,21 @@
 Installation:
-...
+```...
 "rofil/template-master": "master-dev"
-...
+...```
 
 and update composer.json by running
-composer update
-
+```
+    ...
+    $ composer update
+    ...
+```
 register the bundle pada appkernel.php
 
-`...
+``
+...
     new Rofil\Template\MasterBundle\RofilTemplateMasterBundle(),
 ...
-`
+``
 
 ###Configuration###
 
