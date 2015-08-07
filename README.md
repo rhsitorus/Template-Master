@@ -12,6 +12,8 @@ register the bundle pada appkernel.php
     new Rofil\Template\MasterBundle\RofilTemplateMasterBundle(),
 ...
 
+###Configuration###
+
 in app/config/config.yml
 ...
 assetic:
