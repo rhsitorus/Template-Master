@@ -1,5 +1,6 @@
 #INSTRUCTION#
 ##Introduction##
+This bundle is used as default theme of my symfony project. This theme is based on bootstrap css framework.
 ##Installation##
 Add to composer.json
 ```
