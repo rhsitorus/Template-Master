@@ -1,4 +1,4 @@
-###INSTRUCTION###
+#INSTRUCTION#
 ##Introduction##
 ##Installation##
 Add to composer.json
@@ -46,7 +46,7 @@ twig:
 app/console assets:install
 ```
 
-##Using##
+##Usage##
 in template you can extends our template by using 
 ```
 {% extends("RofilTemplateMasterBundle:one-column.html.twig") %}
