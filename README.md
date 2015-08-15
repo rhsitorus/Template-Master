@@ -46,7 +46,10 @@ twig:
 ```
 app/console assets:install
 ```
-
+##Assetic Dump
+```
+php app/console assetic:dump
+```
 ##Usage##
 in template you can extends our template by using 
 ```
